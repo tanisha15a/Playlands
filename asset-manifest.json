@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/Playland/static/js/main.aedb0108.js",
+    "static/js/453.65aeebec.chunk.js": "/Playland/static/js/453.65aeebec.chunk.js",
+    "index.html": "/Playland/index.html",
+    "main.aedb0108.js.map": "/Playland/static/js/main.aedb0108.js.map",
+    "453.65aeebec.chunk.js.map": "/Playland/static/js/453.65aeebec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.aedb0108.js"
+  ]
+}
